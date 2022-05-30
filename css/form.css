@@ -1,0 +1,7 @@
+.twoColForm {
+    border: none;
+}
+
+.twoColForm  td:first-child {
+    text-align: right;
+}
